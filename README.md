@@ -1,3 +1,4 @@
 # blogPlatzi
 Uso profesional de Git y Github
-Con cambios
+
+***Todo se puede siempre y cuando se tenga pasión y perseverancia***
